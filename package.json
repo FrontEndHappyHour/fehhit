@@ -1,0 +1,17 @@
+{
+  "name": "fehhit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateDescription.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "prompt": "^1.0.0"
+  }
+}
